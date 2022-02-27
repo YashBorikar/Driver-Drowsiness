@@ -12,7 +12,7 @@ Driver Drowsiness Detection Model have proven to be very useful in pattern recog
 can be implemented in vehicles to reduce road mishaps.
 
 ## Preview
-
+https://user-images.githubusercontent.com/96331104/155891753-7c80c040-454d-4b1e-b562-674f4fbc59eb.mp4
 
 # Installations
 Follow steps to use this project:
